@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Legendbae</string>
+    <string name="facebook_app_id">623920784989254</string>
+    <string name="fb_login_protocol_scheme">fb623920784989254</string>
+</resources>
